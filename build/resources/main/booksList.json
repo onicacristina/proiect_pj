@@ -1,0 +1,43 @@
+[ {
+  "title" : "A thousand splendid suns",
+  "author" : "Khaled hosseini",
+  "fiction" : true,
+  "numberOfPages" : 452,
+  "rating" : 4.0
+}, {
+  "title" : "A brief history of time",
+  "author" : "Stephen Hawking",
+  "fiction" : true,
+  "numberOfPages" : 250,
+  "rating" : 3.0
+}, {
+  "title" : "12 Rules for life",
+  "author" : "Jordan Peterson",
+  "fiction" : false,
+  "numberOfPages" : 450,
+  "rating" : 5.0
+}, {
+  "title" : "And the mountains echoed",
+  "author" : "Khaled Hosseini",
+  "fiction" : true,
+  "numberOfPages" : 359,
+  "rating" : 5.0
+}, {
+  "title" : "The Atlantis gene",
+  "author" : "A.G. Riddle",
+  "fiction" : false,
+  "numberOfPages" : 789,
+  "rating" : 2.0
+}, {
+  "title" : "How to write your first book",
+  "author" : "Stephanie Newell",
+  "fiction" : false,
+  "numberOfPages" : 125,
+  "rating" : 1.0
+}, {
+  "title" : "It end",
+  "author" : "fff",
+  "fiction" : false,
+  "numberOfPages" : 563,
+  "rating" : 3.0
+} ]
