@@ -35,9 +35,9 @@
   "numberOfPages" : 125,
   "rating" : 1.0
 }, {
-  "title" : "It end",
-  "author" : "fff",
-  "fiction" : false,
+  "title" : "It end with us",
+  "author" : "Colleen Hoover",
+  "fiction" : true,
   "numberOfPages" : 563,
   "rating" : 3.0
 } ]

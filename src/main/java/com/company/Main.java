@@ -153,29 +153,6 @@ public class Main {
     }
 
 
-    /*private static void goToMenuPage(JPanel panel) {
-        saveBookButton.addActionListener(
-                new ActionListener() {
-                    @Override
-                    public void actionPerformed(ActionEvent e) {
-                        Book book = new Book();
-                        book.setTitle(titleInput.getText());
-                        book.setAuthor(authorInput.getText());
-                        book.setNumberOfPages(Integer.valueOf(numberOfPagesInput.getText()));
-                        book.setRating(Float.valueOf(ratingInput.getText()));
-                        book.setFiction(bookTypeCheckBox.isSelected());
-
-                        bookList.add(book);
-
-                        panel.removeAll();
-                        panel.updateUI();
-                        showMenuPage(panel);
-                    }
-                }
-        );
-    }*/
-
-
     private static void showMenuPage(JPanel panel) {
         panel.setLayout(null);
 
